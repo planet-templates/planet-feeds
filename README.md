@@ -1,4 +1,14 @@
-pluto.feeds
-===========
+# `feeds` -  Pluto Template Pack - RSS 2.0, Atom, OPML, and Friends
 
-feeds - planet template pack - rss 2.0, atom, opml, and friends
+## What's Pluto?
+
+Pluto is a feed reader that lets you build web pages from published
+web feeds. More [Pluto Project Site »](https://github.com/feedreader/pluto)
+
+
+
+
+## Questions? Comments?
+
+Send them along to the [Planet Pluto and Friends Forum/Mailing List](http://groups.google.com/group/feedreader).
+Thanks!
