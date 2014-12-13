@@ -1,0 +1,24 @@
+{
+  "name": "planet-feeds",
+  "version": "0.1.0",
+  "description": "feeds - planet template pack - rss 2.0, atom, opml, and friends",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/planet-templates/planet-feeds.git"
+  },
+  "keywords": [
+    "planet",
+    "pluto",
+    "feeds",
+    "planet-templates",
+    "rss",
+    "atom",
+    "opml"
+  ],
+  "author": "Gerald Bauer",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/planet-templates/planet-feeds/issues"
+  },
+  "homepage": "https://github.com/planet-templates/planet-feeds"
+}
