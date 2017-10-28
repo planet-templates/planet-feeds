@@ -16,5 +16,5 @@ web feeds. More [Pluto Project Site »](http://feedreader.github.io)
 
 ## Questions? Comments?
 
-Send them along to the [Planet Pluto and Friends Forum/Mailing List](http://groups.google.com/group/feedreader).
+Send them along to the [wwwmake Forum/Mailing List](http://groups.google.com/group/wwwmake).
 Thanks!
