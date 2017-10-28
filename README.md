@@ -1,6 +1,6 @@
-> NOTE: Work-in-progess.  All feeds templates (from the "classic" planet templates style need to get converted to embedded ruby (ERB)-style. 
+> NOTE: Work-in-progess.  All feeds templates from the "classic" planet templates style need to get converted to embedded ruby (ERB)-style. 
 >
-> See [rss.xml.erb](https://github.com/gravitystorm/blogs.osm.org/blob/master/theme/rss.xml.erb)  
+> See [rss.xml.erb](https://github.com/gravitystorm/blogs.osm.org/blob/master/theme/rss.xml.erb)
 > or [opml.xml.erb](https://github.com/gravitystorm/blogs.osm.org/blob/master/theme/opml.xml.erb) at the Open Street Map Blogs / Planet as working examples.
 
 
